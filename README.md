@@ -1,3 +1,3 @@
 # zQuery
-this is a jQuery Library in JavaScript
-//这是我用原生js写的类jQuery库
+这是一个函数库，涵盖常用原生js各种函数
+
